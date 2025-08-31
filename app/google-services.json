@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510014514942",
+    "project_id": "shoppinglist-yaron",
+    "storage_bucket": "shoppinglist-yaron.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510014514942:android:7e7aafcbf769da5cec67af",
+        "android_client_info": {
+          "package_name": "com.example.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYy2ibF6JgO2LAFMusrysJ7zQANeQ0H9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
